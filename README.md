@@ -5,7 +5,7 @@ With a career spanning over two decades in the field, I am excited to share my j
 
 👀 About This Repository
 
-This GitHub repository is a comprehensive resource for my online course, "SQL Mastery: From Zero to Hero in Data Management."
+This GitHub repository is a comprehensive resource  for  "SQL Mastery: From Zero to Hero in Data Management journey courses"
 Here, you'll find a wealth of resources, including lecture notes, code snippets, practical exercises, and project files that complement the course material.
 Whether you're a beginner or looking to brush up on your database skills, this repository is your go-to resource.
 🌱 Learning Journey
@@ -19,7 +19,7 @@ You can contribute by submitting pull requests or opening issues for discussions
 📫 Stay Connected
 
 If you have questions or need support regarding the course materials, feel free to reach out.
-You can contact me at [Your Email Address] or follow me on [LinkedIn : www.linkedin.com/in/miriam-figueroa-DBA for updates and insights into the world of databases.
+You can contact me at dbateachable@gmail.com or follow me on [LinkedIn : www.linkedin.com/in/miriam-figueroa-DBA for updates and insights into the world of databases.
 📘 Additional Resources
 
 Alongside the course materials, I'll be sharing book recommendations, articles, and links to other valuable resources in the field of database management.
